@@ -52,6 +52,7 @@ class Husky extends Dog {
     show();
   }
 }
+![](http://fed.renren.com/wp-content/uploads/2017/05/5-4.png)
 
 当调用Husky的bark函数时就是wolf wolf而不是wang wang了：
 var aHusky = new Dog(3);
